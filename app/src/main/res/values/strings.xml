@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOLULAB-Assignment</string>
+    <string name="my_dashboard">My dashboard</string>
+    <string name="available_to_buy">Available to buy</string>
+    <string name="see_all">See all</string>
+    <string name="home">Home</string>
+    <string name="whishlist">Whishlist</string>
+    <string name="scan">Scan</string>
+</resources>
